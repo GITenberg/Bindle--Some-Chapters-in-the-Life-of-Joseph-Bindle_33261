@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1211
     wikipedia: http://en.wikipedia.org/wiki/Herbert_George_Jenkins
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33261#Bindle--Some-Chapters-in-the-Life-of-Joseph-Bindle
 gutenberg_bookshelf: Humor
 gutenberg_issued: '2010-07-26'
 gutenberg_type: Text
